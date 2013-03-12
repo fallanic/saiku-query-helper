@@ -26,7 +26,7 @@ Here is a straightforward example :
     });
 
 
-Another example containing a simple web server acting as a Saiku "wrapper" around saiku is also available in the "examples" directory.
+Another example containing a simple web server acting as a Saiku "wrapper" is also available in the "examples" directory.
 
 This package has been tested with Saiku server 2.4 and might not work with upcoming versions (if Saiku REST api changes).
 
