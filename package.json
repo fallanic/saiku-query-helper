@@ -1,0 +1,38 @@
+{
+  "name": "saiku-query-helper",
+  "version": "0.1.0",
+  "description": "A simple node client for saiku REST api. The focus of this package is to run parameterized MDX queries, while minimizing the boilerplate code.",
+  "author": {
+    "name": "Fabien Allanic",
+    "email": "fabien.allanic@gmail.com"
+  },
+  "dependencies": {
+    "xml2js": "0.2.x",
+    "async": "0.2.x"
+  },  
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fallanic/saiku-query-helper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fallanic/saiku-query-helper/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/fallanic/saiku-query-helper/blob/master/MIT-LICENSE.md"
+    }
+  ],  
+  "main": "lib/saikuQueryHelper",
+  "keywords": [
+    "saiku",
+    "query",
+    "helper",
+    "rest",
+    "api",
+    "dynamic",
+    "parameter",
+    "mdx"
+  ],
+  "engine": "node >= 0.8.1"
+}
