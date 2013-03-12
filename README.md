@@ -30,5 +30,5 @@ This package has been tested with Saiku server 2.4 and might not work with futur
 That's all folks!
 
 ## License
-Copyright (c) 2012 Fabien Allanic  
+Copyright (c) 2013 Fabien Allanic  
 Licensed under the MIT license.
