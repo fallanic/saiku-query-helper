@@ -3,6 +3,9 @@ Saiku Query Helper
 
 A simple node client for Saiku REST api. 
 The focus of this package is to run parameterized MDX queries, while minimizing the boilerplate code.
+Parameters in your **.saiku file** should be have the following form :
+
+    ${MyParameter}
 
 ## Getting Started
 Install the module with: `npm install -g saiku-query-helper`
@@ -25,7 +28,7 @@ Here is a straightforward example :
 
 Another example containing a simple web server acting as a Saiku "wrapper" around saiku is also available in the "examples" directory.
 
-This package has been tested with Saiku server 2.4 and might not work with future versions (if Saiku REST api changes).
+This package has been tested with Saiku server 2.4 and might not work with future versions (if Saiku REST api changes in the future).
 
 That's all folks!
 
