@@ -3,7 +3,7 @@ Saiku Query Helper
 
 A simple node client for Saiku REST api. 
 The aim of this package is to run parameterized MDX queries, while minimizing the boilerplate code.
-Parameters in your **.saiku file** should be have the following form :
+Parameters in your **.saiku file** should be formed like the following :
 
     ${MyParameter}
 
