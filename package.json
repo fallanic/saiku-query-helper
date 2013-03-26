@@ -1,6 +1,6 @@
 {
   "name": "saiku-query-helper",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A simple node client for saiku REST api. The aim of this package is to run parameterized MDX queries, while minimizing the boilerplate code.",
   "author": {
     "name": "Fabien Allanic",
